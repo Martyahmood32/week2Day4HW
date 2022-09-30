@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Darius Martin</h1>
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=d2d245dd48&attid=0.1&permmsgid=msg-f:1745153656409758027&th=1838080118c7194b&view=att&disp=safe&realattid=a77b993efd8dd304_0.1" alt="">
+    <H2>Random photo of me</H2>
+
+    <ul>
+      <li> 2004: I was born</li>
+     <li> 2020: I got my first job at larosas call center</li>
+      <li> 2021: I graduated my junior year</li>
+      <li> 2022: I became a supervisor at my job and got my drivers license</li>
+      <li>later in 2022: I quit my job and attended Kable Academy</li>
+  
+    </ul>
+
+    <a href="www.linkedin.com/in/darius-martin-924b52215">My linked in page</a> 
+
+</body>
+</html>
